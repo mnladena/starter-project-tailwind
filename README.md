@@ -6,5 +6,5 @@ npm run dev -> for dev
 
 npm run build -> for production  
 
-npm run buils-images -> minify image  
+npm run build-images -> minify image  
 
